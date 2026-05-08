@@ -14,7 +14,7 @@ crons = ["0 2 */1 * *"]
 [[env.dev.d1_databases]]
 binding = "DB"
 database_name = "qrcode_hub_dev"
-database_id = "d446a97e-2daa-4be6-9ef9-56a5a6cde756"
+database_id = "1cfa1ef6-a076-410b-aa19-50f63411313c"
 
 [env.dev.triggers]
 crons = ["*/10 * * * * *"]
